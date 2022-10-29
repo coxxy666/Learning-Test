@@ -1,0 +1,9 @@
+def nth_most_rate(*args):
+
+    for n in args:
+
+        nth_most_rate([5,4,5,4,5,4,4,5,3,3,3,2,2,1,5])
+        
+        
+print(nth_most_rate[11])
+print(nth_most_rate[12])
